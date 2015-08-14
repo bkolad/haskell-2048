@@ -1,5 +1,15 @@
 haskell-2048
 ============
+
+Forked from Mark repository just to play with yesod project.. 
+
+More info:
+https://jumboeats.wordpress.com/2014/11/10/haskell2048/
+
+-Blaze
+==========
+
+
 A client server implementation of the 2048 game in Haskell, written with the goal of learning Haskell as I go...
 
 The Game Logic and structures for 2048 are ported from the excellent Elm version written in Elm by ScrambledEggsOnToast here:
