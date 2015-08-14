@@ -7,6 +7,7 @@ More info:
 https://jumboeats.wordpress.com/2014/11/10/haskell2048/
 
 Blaze
+
 ==========
 
 
