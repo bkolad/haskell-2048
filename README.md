@@ -6,7 +6,7 @@ Forked from Mark repository just to play with yesod project..
 More info:
 https://jumboeats.wordpress.com/2014/11/10/haskell2048/
 
--Blaze
+Blaze
 ==========
 
 
